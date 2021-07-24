@@ -1,0 +1,405 @@
+/* ====== extra small device ======= */
+@media (max-width: 575.98px){
+    .navbar-toggler i{
+        color: #fff;
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+    #banner {
+        padding-top: 130px;
+        padding-bottom: 130px;
+    }
+    .banner_txt h1 {
+        font-size: 30px;
+    }
+    .banner_txt h3 {
+        font-size: 20px;
+    }
+    .banner_txt p {
+        font-size: 10px;
+    }
+    .right-arrow {
+        right: -10px;
+        font-size: 25px;
+        line-height: 30px;
+        height: 30px;
+        width: 30px;
+    }
+    .left-arrow {
+        left: -10px;
+        font-size: 25px;
+        line-height: 30px;
+        height: 30px;
+        width: 30px;
+    }
+    .left-arrow:hover{
+        font-size: 30px;
+    }
+    .right-arrow:hover{
+        font-size: 30px;
+    }
+    #service {
+        padding: 40px 0;
+    }
+    .service_txt h3 {
+        font-size: 23px;
+        line-height: 25px;
+    }
+    .service_txt p {
+        font-size: 13px;
+        line-height: 15px;
+        padding-top: 20px;
+        padding-bottom: 45px;
+    }
+    .service_item{
+        margin-bottom: 20px;
+    }
+    #instagram {
+        padding: 40px 0;
+    }
+    .instagram_head h3::before {
+        left: -50px;
+        width: 40px;
+    }
+    .instagram_head h3::after {
+        right: -50px;
+        width: 40px;
+    }
+    .instagram_head{
+        margin-bottom: 25px;
+    }
+    .instagram_button {
+        margin-top: 30px;
+    }
+    #journal {
+        padding-top: 40px;
+        padding-bottom: 10px;
+    }
+    .journal_head h3::before {
+        left: -60px;
+        width: 50px;
+    }
+    .journal_head h3::after {
+        right: -60px;
+        width: 50px;
+    }
+    .journal_item {
+        margin-top: 15px;
+    }
+    .journal_item_top h3 {
+        font-size: 16px;
+    }
+    .journal_bottom{
+        text-align: center;
+    }
+    #about {
+        padding-bottom: 30px;
+    }
+    .about_head h3 {
+        margin-top: 35px;
+    }
+    .about_head h3::after {
+        right: -85px;
+        width: 70px;
+    }
+    .about_item {
+        margin-top: 15px;
+    }
+    .about_txt h3 {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    .about_service_txt p {
+        font-size: 12px;
+    }
+    #footer_top {
+        padding-top: 0;
+        padding-bottom: 15px;
+    }
+    .footer_head h3 {
+        padding-top: 40px;
+        padding-bottom: 15px;
+    }
+    .touch_txt p {
+        padding-bottom: 10px;
+    }
+    .touch_blank{
+        padding-left: 0;
+    }
+    .twitter_txt p {
+        padding-bottom: 10px;
+    }
+    .post_txt h4 {
+        padding-bottom: 10px;
+    }
+    .abous_us_txt p {
+        padding-bottom: 10px;
+    }
+    #footer_bottom_part {
+        padding: 25px 0;
+    }
+    .footer_bottom_part_txt h3 {
+        font-size: 11px;
+    }
+}
+/* ====== small device ======= */
+@media (min-width:576px) and (max-width: 767.98px){
+    .navbar-toggler i{
+        color: #fff;
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+    #banner {
+        padding-top: 160px;
+        padding-bottom: 160px;
+    }
+    .banner_txt h1 {
+        font-size: 40px;
+    }
+    .banner_txt h3 {
+        font-size: 30px;
+    }
+    .banner_txt p {
+        font-size: 13px;
+    }
+    .right-arrow {
+        right: -10px;
+        font-size: 25px;
+        line-height: 30px;
+        height: 30px;
+        width: 30px;
+    }
+    .left-arrow {
+        left: -10px;
+        font-size: 25px;
+        line-height: 30px;
+        height: 30px;
+        width: 30px;
+    }
+    .left-arrow:hover{
+        font-size: 30px;
+    }
+    .right-arrow:hover{
+        font-size: 30px;
+    }
+    #service {
+        padding: 40px 0;
+    }
+    .service_txt h3 {
+        font-size: 21px;
+    }
+    .service_txt p {
+        font-size: 13px;
+        line-height: 15px;
+        padding-top: 20px;
+        padding-bottom: 45px;
+    }
+    .service_item{
+        margin-bottom: 20px;
+    }
+    .service_item:hover .service_search{
+        left: 43%;
+        font-size: 23px;
+        color: #fff;
+    }
+    .service_item:hover .service_chain{
+        right: 43%;
+        font-size: 23px;
+        color: #fff;
+    }
+    #instagram {
+        padding: 40px 0;
+    }
+    .instagram_head{
+        margin-bottom: 25px;
+    }
+    .instagram_button {
+        margin-top: 30px;
+    }
+    #journal {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .journal_item {
+        margin-top: 15px;
+    }
+    .journal_bottom{
+        text-align: center;
+    }
+    #about {
+        padding-bottom: 30px;
+    }
+    .about_head h3 {
+        margin-top: 35px;
+    }
+    .about_head h3::after {
+        right: -85px;
+        width: 70px;
+    }
+    .about_item {
+        margin-top: 15px;
+    }
+    .about_txt h3 {
+        font-size: 15px;
+    }
+    .about_txt p {
+        font-size: 11px;
+    }
+    .about_service_txt p {
+        font-size: 11px;
+    }
+    #footer_top {
+        padding-top: 0;
+        padding-bottom: 15px;
+    }
+    .footer_head h3 {
+        padding-top: 40px;
+        padding-bottom: 15px;
+    }
+    .touch_txt p {
+        padding-bottom: 10px;
+    }
+    .twitter_txt p {
+        padding-bottom: 15px;
+    }
+    .post_txt h4 {
+        padding-bottom: 15px;
+    }
+    .abous_us_txt p {
+        padding-bottom: 15px;
+    }
+    #footer_bottom_part {
+        padding: 25px 0;
+    }
+}
+/* ====== medium device ======= */
+@media (min-width:768px) and (max-width: 991.98px){
+    .navbar-toggler i{
+        color: #fff;
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+    #banner {
+        padding-top: 180px;
+        padding-bottom: 180px;
+    }
+    .banner_txt h1 {
+        font-size: 45px;
+    }
+    .banner_txt h3 {
+        font-size: 35px;
+    }
+    .banner_txt p {
+        font-size: 14px;
+    }
+    .right-arrow {
+        right: -10px;
+        font-size: 30px;
+    }
+    .left-arrow {
+        left: -10px;
+        font-size: 30px;
+    }
+    #service {
+        padding: 40px 0;
+    }
+    .service_txt h3 {
+        font-size: 25px;
+    }
+    .service_txt p {
+        font-size: 14px;
+        line-height: 15px;
+        padding-top: 20px;
+        padding-bottom: 45px;
+    }
+    .service_item{
+        margin-bottom: 20px;
+    }
+    #instagram {
+        padding: 40px 0;
+    }
+    .instagram_head{
+        margin-bottom: 25px;
+    }
+    .instagram_button {
+        margin-top: 30px;
+    }
+    #journal {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .about_head h3 {
+        margin-top: 35px;
+    }
+    .about_item {
+        margin-top: 20px;
+    }
+    .about_txt h3 {
+        font-size: 18px;
+    }
+    .about_txt p {
+        font-size: 14px;
+    }
+    #footer_top {
+        padding-top: 0;
+        padding-bottom: 25px;
+    }
+    .footer_head h3 {
+        padding-top: 40px;
+        padding-bottom: 15px;
+    }
+    .touch_txt p {
+        padding-bottom: 15px;
+    }
+    .touch_blank{
+        padding-left: 0px;
+    }
+    .twitter_txt p {
+        padding-bottom: 15px;
+    }
+    .post_txt h4 {
+        padding-bottom: 15px;
+    }
+    .abous_us_txt p {
+        padding-bottom: 15px;
+    }
+    #footer_bottom_part {
+        padding: 25px 0;
+    }
+}
+/* ====== large device ======= */
+@media (min-width:992px) and (max-width: 1199.98px){
+    #banner {
+        padding-top: 250px;
+        padding-bottom: 220px;
+    }
+    .service_txt h3{
+        font-size: 25px;
+    }
+    .journal_item_top h3 {
+        font-size: 15px;
+    }
+    .journal_bottom p {
+        text-align: center;
+    }
+    .about_txt h3 {
+        font-size: 15px;
+        line-height: 22px;
+        padding-bottom: 15px;
+    }
+    .about_txt p {
+        font-size: 13px;
+    }
+    .ast{
+        margin-top: 20px;
+    }
+    .touch_blank{
+        padding-left: 10px;
+    }
+    .touch_last_txt p {
+        font-size: 13px;
+    }
+}
